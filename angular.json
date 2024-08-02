@@ -88,7 +88,13 @@
             ],
             "scripts": []
           }
-        }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "https://flyaway12345.github.io/ticToctoeV3/",
+            "name": "HI Media Creations"
+          }
       }
     }
   }
