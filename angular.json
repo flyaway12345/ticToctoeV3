@@ -93,6 +93,7 @@
           "builder": "angular-cli-ghpages:deploy",
           "options": {
             "baseHref": "https://flyaway12345.github.io/ticToctoeV3/",
+            "repo": "https://github.com/flyaway12345/ticToctoeV3.git",
             "name": "HI Media Creations"
           }
       }
